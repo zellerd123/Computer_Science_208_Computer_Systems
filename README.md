@@ -14,7 +14,7 @@ Assembly language, providing insights into how high-level code is translated int
 The workings of computer hardware, understanding how software interacts with memory, processors, and peripherals.
 **Projects Overview**
 
-**Project 1:** Binary String Converter
+**Project 1: Attached In Repository** Binary String Converter
 Objective: Developed code capable of converting binary strings to numerical values and vice versa, deepening the understanding of binary arithmetic and bit manipulation in C.
 
 
